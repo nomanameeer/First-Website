@@ -1,4 +1,5 @@
-# First-Website
-My name is Noman ameer
+Assalamo alikum First of all thankyou for the giving me a chance to introduce my self.
 <br>
-I live in Pakistan and recently i completed my Inter from sindh board
+My name is Noman ameer and i am 19 year old and i am fresh i don't have any experience i'm from pakistan recently i started to learn software engineering from Aptech institute.
+
+
